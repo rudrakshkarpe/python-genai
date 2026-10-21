@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.32.1](https://github.com/googleapis/python-genai/compare/v2.32.0...v2.32.1) (2026-10-21)
+
+
+### Bug Fixes
+
+* Honor an explicit zero in HttpRetryOptions delay fields ([419dd89](https://github.com/googleapis/python-genai/commit/419dd89a826eba65504c45ff97a9a1faeb01b980)), refs [#2026](https://github.com/googleapis/python-genai/issues/2026)
+
 ## [2.31.0](https://github.com/googleapis/python-genai/compare/v2.30.1...v2.31.0) (2026-10-14)
 
 
